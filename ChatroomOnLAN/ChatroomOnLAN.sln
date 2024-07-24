@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatroomOnLAN", "ChatroomOnLAN.csproj", "{570968A7-E7DC-425C-95B4-C08B418851BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{570968A7-E7DC-425C-95B4-C08B418851BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{570968A7-E7DC-425C-95B4-C08B418851BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{570968A7-E7DC-425C-95B4-C08B418851BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{570968A7-E7DC-425C-95B4-C08B418851BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7FAFD0F-C3F9-4C8A-8BCF-29A6DB6C99BA}
+	EndGlobalSection
+EndGlobal
